@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "checkpoint-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello-world.js"
+  },
+  "keywords": [],
+  "author": "Youcef G",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "generate-password": "^1.7.1",
+    "node": "^18.20.3",
+    "nodemailer": "^6.9.13"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
